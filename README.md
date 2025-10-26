@@ -67,6 +67,6 @@ We'll review your pull request and merge it if everything looks good!
 
 ## Contact
 
-If you have any questions or suggestions , feel free to contact us at rh676838@gmail.com.
+If you have any questions or suggestions , feel free to contact us at kingchandus143@gmail.com.
 
 
