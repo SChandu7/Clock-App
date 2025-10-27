@@ -13,7 +13,9 @@ Neumorphic TimeKit is an open-source project that brings together the elegance o
 - **Stopwatch**: Whether you need to time your workouts, cooking, or any other activity, the stopwatch feature offers precision and ease of use.
 
 ## Screenshots
-<img src="./ui.jpg">
+
+<img width="1024" height="585" alt="image" src="https://github.com/user-attachments/assets/e6c2e90e-ab8e-4ca5-b4e8-aa5b48a428ff" />
+
 
 
 ## Dependencies
